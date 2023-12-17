@@ -3,7 +3,7 @@
 
 ## Objectives
 
-Hospital would like to better orgranize the receipt of EHR, using a modern method to store the files and extract the unstructured medical data frmo them.
+Hospital would like to better organize the receipt of EHR, using a modern method to store the files and extract the unstructured medical data from them.
 
 ### Targeted KPI
 - Increase overall patient satisfaction

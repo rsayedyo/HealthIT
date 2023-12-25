@@ -14,6 +14,7 @@ Hospital would like to create a real-time, visual dashboard that shows bed occup
 ## HLD
 In this solution, hospital bed occupancy can be monitored and managed in realtime by using Amazon Kinesis and Amazon OpenSearch services. Staff can detect anomalies create dashboards and optimize medical equipments and resources allocation.
 
+![open_search_dashboard](https://github.com/rsayedyo/HealthIT/assets/36279070/3cc6269b-17e2-4bd2-80b5-0f535415a7e0)
 
 ## LLD
 - Bed occupancy data is generated and sent to Amazon Kinesis Data Streams by different systems, such as hospital admissions, patient monitoring, and other systems that capture data related to bed occupancy.
@@ -38,5 +39,4 @@ In this solution, hospital bed occupancy can be monitored and managed in realtim
 - Amazon OpenSearch service
 - Amazon S3
 
-![open_search_dashboard](https://github.com/rsayedyo/HealthIT/assets/36279070/3cc6269b-17e2-4bd2-80b5-0f535415a7e0)
 

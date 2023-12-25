@@ -12,6 +12,8 @@ They would like to use the power of cloud computing to reduce costs and streamli
 ## HLD
 This solution creates a hybrid storage system between on-premises environments and AWS with the use case for a PACS.
 
+![PACS_dicoogle](https://github.com/rsayedyo/HealthIT/assets/36279070/3126152b-b315-47d3-8c88-7771f373513b)
+
 ## LLD
 - For this solution, a PACS server maintains access to diagnostic tool spanning several years. New and frequently accesses data is stored on premises.
 - The on-premises PACS server uses AWS storage Gateway which provides on-premises access to virtually unlimited cloud storage.

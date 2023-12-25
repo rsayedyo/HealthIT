@@ -37,3 +37,6 @@ In this solution, hospital bed occupancy can be monitored and managed in realtim
 - Amazon Kinesis Data Firehose
 - Amazon OpenSearch service
 - Amazon S3
+
+![open_search_dashboard](https://github.com/rsayedyo/HealthIT/assets/36279070/3cc6269b-17e2-4bd2-80b5-0f535415a7e0)
+
